@@ -1,0 +1,2 @@
+class SubWategory < ApplicationRecord
+end
